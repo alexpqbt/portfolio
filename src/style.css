@@ -103,7 +103,7 @@ body {
   width: min(100%, 36rem);
   padding: 2em 1em;
 
-  /* margin: 0 auto; */
+  margin: 0 auto;
 }
 
 header {
