@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node build.js",
-    "deploy": "pnpm build && gh-pages -d dist -r https://github.com/alexpqbt/portfolio.git"
+    "deploy": "pnpm build && gh-pages -d dist -r git@github.com:alexpqbt/portfolio.git"
   },
   "keywords": [],
   "author": "",
